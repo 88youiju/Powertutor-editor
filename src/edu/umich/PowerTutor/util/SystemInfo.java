@@ -559,8 +559,6 @@ public class SystemInfo {
         updateTime = SystemClock.elapsedRealtime();
       }
     }
-
-    public void ssnag(){}
     
 
     public void clearIfExpired() {
